@@ -50,8 +50,8 @@ function Flower(petals){
 		var lovesMe    = pronoun + " loves me!"
 		var lovesMeNot = pronoun + " loves me not!"
 		var n;
-		for ( n=0; n <= this.petals; n++ ){
-			if (n === this.petals){
+		for ( n=0; n < this.petals; n++ ){
+			if (n === this.petals - 1){
 				lovesMe = lovesMe.toUpperCase() + "!!!!";
 				lovesMeNot = lovesMeNot.toUpperCase() + "!!!!";
 			}
