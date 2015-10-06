@@ -8,7 +8,7 @@
 
 ## What is an Object?
 
-As of today, we have been writing our Javascript code mainly using only functions, Strings, ints, and Arrays.   This has allowed us to parse through data objects given to us, reach out and pull data from the internet, and even make a pretty neat racing game!  These are all great accomplishments, but like everything else in the world of programming, there is always a more efficient way of implementing what we have done.
+As of today, we have been writing our Javascript code mainly using only functions, Strings, ints, and Arrays.   This has allowed us to parse through data objects given to us, reach out and pull data from the internet!  These are all great accomplishments, but like everything else in the world of programming, there is always a more efficient way of implementing what we have done.
 
 Here's a truncated version of the data we have been using for our gitHub user website drill.  Take some time to study the structure and the data types within the data object.
 
